@@ -6,5 +6,6 @@ public class InsertIntoGit {
 		System.out.println("Changed the currentn project");
 		System.out.println("Third change noticed");
 		System.out.println("Next change");
+		System.out.println("New Changes");
 	}
 }
