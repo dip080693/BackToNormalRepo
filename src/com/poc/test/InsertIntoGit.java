@@ -8,6 +8,7 @@ public class InsertIntoGit {
 		System.out.println("Next change");
 		System.out.println("New Changes");
 		System.out.println("different changes");
+		System.out.println("testing rebase here");
 		
 	}
 }
